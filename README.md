@@ -1,5 +1,3 @@
-# alx-project-nexus
-
 # Introduction to project Nexus Prodev FE
 # Understanding Project Nexus
 Project Nexus is a critical milestone in the ProDev Frontend Engineering program. It serves as a capstone experience where learners demonstrate their ability to apply frontend development skills to a real-world project. The goal is to showcase their knowledge, creativity, and technical ability by building a complete and functional application.
@@ -29,7 +27,7 @@ You can choose from various technologies to build your projects, including:
 # 📱 Mobile Applications – Using React Native (Expo Framework) for cross-platform mobile apps.
 # 🌍 Progressive Web Apps (PWA) – Building installable, offline-capable web apps using modern web technologies.
 # 💻 Web Applications – Developing dynamic, responsive, and interactive websites using Next.js.
-Project Nexus Evaluation and Graduation Requirements
+# Project Nexus Evaluation and Graduation Requirements
 Who Reviews the Projects?
 Projects will be manually reviewed by assigned mentors, who will assess both technical implementation and presentation skills.
 
@@ -71,52 +69,52 @@ Lacks modularity, making it hard to maintain.
 Poor or inconsistent design choices.
 Not responsive—breaks on different screen sizes.
 Difficult to navigate or confusing user experience.
-4️⃣ Performance & Optimization
+# 4️⃣ Performance & Optimization
 Slow loading times with no optimization.
 Unused or excessive code affecting efficiency.
 No effort to follow performance best practices.
-5️⃣ Presentation & Documentation
+# 5️⃣ Presentation & Documentation
 README file missing or unclear.
 Poorly presented—unable to explain project decisions.
 No setup instructions.
 👍 60% - 80% – Good Job!
 🟡 A solid project that meets expectations but needs refinements.
 
-1️⃣ Functionality & Features
+# 1️⃣ Functionality & Features
 All required features implemented and mostly work.
 Minor bugs, but nothing that breaks core functionality.
-2️⃣ Code Quality & Best Practices
+# 2️⃣ Code Quality & Best Practices
 Code is structured and readable, but could be cleaner.
 Uses GitHub, but lacks commit organization.
-3️⃣ UI/UX & Responsiveness
+# 3️⃣ UI/UX & Responsiveness
 Visually appealing, but could be more polished.
 Works on most screen sizes, with minor issues.
-4️⃣ Performance & Optimization
+# 4️⃣ Performance & Optimization
 Some optimization techniques applied (e.g., lazy loading).
 Could improve loading times and efficiency.
-5️⃣ Presentation & Documentation
+# 5️⃣ Presentation & Documentation
 README exists but lacks detail or clarity.
 Provides installation/setup instructions.
 🌟 80%+ – Exceptional Work!
 🟢 An outstanding project demonstrating excellence.
 
-1️⃣ Functionality & Features
+# 1️⃣ Functionality & Features
 All features work smoothly.
 Goes beyond requirements with additional enhancements.
-2️⃣ Code Quality & Best Practices
+# 2️⃣ Code Quality & Best Practices
 Clean, well-structured, and readable code.
 Uses GitHub effectively with meaningful commits.
 Follows best practices in React, Next.js, etc.
-3️⃣ UI/UX & Responsiveness
+# 3️⃣ UI/UX & Responsiveness
 Polished UI with great attention to detail.
 Fully responsive across all devices.
-4️⃣ Performance & Optimization
+# 4️⃣ Performance & Optimization
 Optimized for speed using caching, minification, etc.
 Scores well on Google Lighthouse for performance.
-5️⃣ Presentation & Documentation
+# 5️⃣ Presentation & Documentation
 Well-written README with screenshots.
 Confident and clear project presentation.
-🌟 Identifying Outstanding Projects
+# 🌟 Identifying Outstanding Projects
 Outstanding projects go beyond the basics and demonstrate thorough research, testing, and execution. Criteria include:
 
 Innovation & Uniqueness – Introduces new ideas or approaches.
@@ -128,7 +126,7 @@ Scalability & Maintainability – Structured for long-term growth.
 Attention to Detail – Pixel-perfect UI, smooth animations.
 Documentation & Readability – Well-structured, easy-to-follow.
 Community Impact – Real-world use, open-source contributions.
-🤝 Collaboration - Key for Success
+# 🤝 Collaboration - Key for Success
 Who to Collaborate With?
 Fellow ProDev Frontend Learners – Exchange ideas, develop synergies, organize study/coding sessions! The choice is yours on how to maximize yours and your colleagues’ talent!
 ProDev Backend Learners – Collaboration and communication with them will be essential because you will use their API endpoints to complete your Project.
